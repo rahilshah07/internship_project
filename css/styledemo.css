@@ -1,0 +1,46 @@
+ @font-face {
+   font-family: myFirstFont;
+   src: url(../fonts/sansation_light.woff);
+}
+
+.customers a.left-carousel-control{display: none;}
+.customers a.right-carousel-control{display: none;}
+.customers{background-color: #8d9eac;width: 100%;float: left;}
+.customers .carousel-inner .item{}
+.customers .carousel-inner .item::after{}
+.customers .carousel-indicators li {height: 12px;width: 12px;border-radius: 50%;margin: 0 8px}
+.overlappping
+{
+	margin-top: 20px;
+	max-width: 800px;
+	margin: 0 auto; 
+	width: 100%;
+	text-align: center;
+	color: white;
+	margin-bottom: 70px;
+}
+.overlappping h1
+{
+    font-family: 'Campton Book';
+    font-weight: bold;
+    font-style: normal;
+	margin-top: 40px;
+	font-size: 20px;
+	color:#ffffff;
+}
+.overlappping p
+{
+	margin-top: 30px;
+	font-size: 12px;
+}
+.overlappping span
+{
+	font-size: 10px;
+	display: block;
+}
+a.right.carousel-control {
+    display: none;
+}
+a.left.carousel-control {
+    display: none;
+}

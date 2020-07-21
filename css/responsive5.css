@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px)
+	{
+	.main_menu a
+	{
+		padding:14px 8px;
+	}
+	.social
+	{
+		float: left;
+		margin-left: -30px;
+	}
+	.accounts
+	{
+		margin-top:-130px;
+	}
+	.col-sm-4
+	{
+		margin-top: 10px;
+	}
+	
+}

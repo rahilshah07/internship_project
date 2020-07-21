@@ -1,0 +1,22 @@
+@media screen and (max-width: 768px)
+{
+	.social
+	{
+		float: left;
+		margin-left: -30px;
+	}
+	.accounts
+	{
+		margin-top:-130px;
+	}
+	.main_menu a
+	{
+		padding: 5px 4px;
+	}
+	.products .product_item .pro_img img
+	{
+		float: none;
+		max-width: 40%;
+		height: 50%;
+	}
+}

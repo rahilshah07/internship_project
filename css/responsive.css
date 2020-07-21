@@ -1,0 +1,87 @@
+@media screen and (max-width: 980px){
+  .main_menu a{padding: 14px 8px;}
+}
+@media screen and (max-width: 768px){
+	
+	.social
+	{
+		float: left;
+		margin-left: -30px;
+	}
+	.accounts
+	{
+		margin-top:-130px;
+	}
+	.smallproduct_img img
+	{
+		margin: 5px;
+	}
+	.col-sm-6 .product_img img
+	{
+		float:left;
+		width: 100%;
+	}
+	.col-sm-6 .smallproduct_img img
+	{
+		float: left;
+		width: 30%;
+	}
+	.people
+	{
+		margin-bottom: 10px;
+	}
+	.times p
+	{
+		margin-top: 10px;
+	}
+	.col-sm-6 .product_info
+	{
+		float: right;
+		width: 100%;
+	}
+	.complete
+	{
+		display: inline;
+	}
+	.col-sm-3
+	{
+		display: inline-block;
+	}
+	.small_img p
+	{
+		text-align: center;
+	}
+	.brick_info img 
+	{
+
+		background-color: #f6f6f6;
+		display: inline;
+	}
+	.brick_info p
+	{
+		display: inline-block;
+	}
+	.more_info .container
+	{
+		width: 100%;
+		float: none;
+	}
+	.overlaping a
+	{
+		width: 70%;
+	}
+	.service 
+	{
+		float: none;
+		width: 50%;
+	}
+	.service .service_img
+	{
+		display: inline;
+	}
+	.service .service_content
+	{
+		display: inline-block;
+	}
+}
+
